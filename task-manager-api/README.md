@@ -85,7 +85,7 @@ Note: This setup section outlines how I structured and ran the environment durin
 
 ---
 
-## Screenshots of key interfaces & improvements
+## Live Demo
 
 ### Home Page:
 

@@ -70,21 +70,17 @@ This project was focused on clean backend architecture, input validation with Py
 | DELETE | `/items/{id}`    | Delete an item by ID          |
 | GET    | `/items/search`  | Search/filter items by query  |
 
----
 
-## 🛠 Example Input
 
-```json
-{
-  "name": "Bananas",
-  "category": "Fruit",
-  "price": 2.49
-}
-```
+## Live Demo
 
-All inputs are validated using Pydantic schemas to ensure consistent and secure data structure.
+### Dashboard Page:
 
----
+![alt text](<Grocery List Dashboard.png>)
+
+![alt text](<Availability Drop Down Menu.png>)
+
+![alt text](<Added Items.png>)
 
 ## 📦 Docker Deployment
 
