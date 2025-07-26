@@ -86,6 +86,14 @@ This project was focused on clean backend architecture, input validation with Py
 
 ![alt text](<Added Items.png>)
 
+### Update Item Form:
+
+![alt text](<Updating Item.png>)
+
+### After Updating Item:
+
+![alt text](<After Updating Item.png>)
+
 ## 📦 Docker Deployment
 
 To build and run the app using Docker:
