@@ -72,13 +72,17 @@ This project was focused on clean backend architecture, input validation with Py
 
 
 
-## Live Demo
+## 🖥️ App Preview – Grocery List Interface
 
 ### Dashboard Page:
 
 ![alt text](<Grocery List Dashboard.png>)
 
+### Availablity Drop Down Menu:
+
 ![alt text](<Availability Drop Down Menu.png>)
+
+### Add Item Form:
 
 ![alt text](<Added Items.png>)
 
